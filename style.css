@@ -1,0 +1,106 @@
+/* Global styles */
+body{margin: 0;
+font-size: 20px;
+background-color: white;
+font-family: "Times New Roman", Times, serif;
+}
+.photo1{height: 200px;
+  width: 150px;
+  margin-left:30px;
+  margin-top: 50px;
+  font-weight: bold;
+}
+.container{display: flex;
+}
+h1{text-align: center;
+  background: #191970;
+  background: -moz-linear-gradient(315deg, #191970, #FFFFFF);
+  background: -webkit-linear-gradient(315deg, #191970, #FFFFFF);
+  background: linear-gradient(135deg, #191970, #FFFFFF);
+  padding: 10px;
+  margin-top: 0;
+  margin-bottom: 0;
+  width: 100%;
+  font-weight: bold;
+  font-size: 50px;
+}
+table{margin-top: 50px;
+margin-left: 50px;
+margin-right: auto;
+padding: 0px;
+font-size: 25px;
+font-weight: bold;
+min-width: 500px;
+border-collapse: collapse;
+border: solid 5px #191970;
+}
+table td{padding-top: 8px;
+padding-bottom: 8px;
+padding-right:10px;
+padding-left: 10px;
+}
+.Click{text-align: center;
+margin-top: 60px;
+margin-left: auto;
+margin-right: auto;
+background-color: #191970;
+color: White;
+font-size: 30px;
+padding: 10px;
+border-color: #191970;
+border-style: solid;
+border-width: thick;
+font-weight: bold;}
+.navigation{display: flex;
+}
+.Interest{background-color: #191970;
+Font-size: 28px;
+color: white;
+padding: 15px;
+margin-top: 70px;
+margin-left: auto;
+margin-right: auto;
+border-color: #191970;
+border-width: 4px;
+border-style: solid;
+font-weight: bold;
+text-align: center;
+}
+.Job{background-color: #191970;
+font-size: 28px;
+color: white;
+padding: 15px;
+margin-top: 70px;
+margin-left: auto;
+margin-right: auto;
+border-color: #191970;
+border-width: 4px;
+border-style: solid;
+font-weight: bold;
+text-align: center;}
+.Profile{background-color: #191970;
+font-size: 28px;
+color: white;
+padding: 15px;
+margin-top: 70px;
+margin-left: auto;
+margin-right: auto;
+border-color: #191970;
+border-width: 4px;
+border-style: solid;
+font-weight: bold;
+text-align: center;}
+.Project{background-color: #191970;
+font-size: 28px;
+color: white;
+padding: 15px;
+margin-top: 70px;
+margin-left: auto;
+margin-right: auto;
+border-color: #191970;
+border-width: 4px;
+border-style: solid;
+font-weight: bold;
+text-align: center;}
+ul{list-style-type: none;
+}
